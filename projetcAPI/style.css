@@ -1,0 +1,28 @@
+html, body{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+tr, td{
+    padding:10px;
+}
+button#btn{
+    padding: 4px;
+    margin-top: 10px;
+    border-radius: 18px;
+    box-shadow: 2px 2px 3px black;
+}
+td {
+    background: rgb(215, 209, 209); padding:10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px black;
+ }
+.tdEspaco {
+    display: table;
+    float:left;
+    margin-right:10px;
+    }
+table#container { 
+    border-spacing: 5px; 
+    margin: 0 auto;
+}
